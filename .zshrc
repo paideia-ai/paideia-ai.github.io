@@ -1,0 +1,1 @@
+PATH=/usr/local/opt/ruby/bin:/usr/local/opt/ruby/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/yihan/.foundry/bin:/Users/yihan/.fig/bin:/Users/yihan/.local/bin:/Users/yihan/.foundry/bin:/usr/local/lib/ruby/gems/3.2.0/bin
